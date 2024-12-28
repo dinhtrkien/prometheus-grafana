@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@pact-foundation/pact": "^13.2.0",
+    "@pact-foundation/pact-cli": "^16.0.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
